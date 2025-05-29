@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Pendahuluan}{2}{section.1}%
+\contentsline {section}{\numberline {2}Loading Dataset dan Persiapan Awal}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Import Library yang Diperlukan}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Loading Dataset Iris}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Visualisasi Data Awal}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Visualisasi dengan Label Asli}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Visualisasi Data Tanpa Label}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Implementasi Algoritma K-means}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Menjalankan K-means}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Evaluasi Hasil K-means}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Elbow Method untuk K-means}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Implementasi Algoritma DBSCAN}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Menjalankan DBSCAN}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Tuning Parameter DBSCAN}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Grid Search untuk Parameter DBSCAN}{8}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Parameter Optimal DBSCAN}{9}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Menjalankan DBSCAN dengan Parameter Optimal}{9}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Perbandingan K-means dan DBSCAN}{10}{section.6}%
+\contentsline {section}{\numberline {7}Kesimpulan}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Hasil K-means}{10}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Hasil DBSCAN}{10}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Perbandingan}{11}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Referensi}{11}{section.8}%
